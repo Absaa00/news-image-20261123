@@ -1,0 +1,23 @@
+# news-image-20261123-r3: ignore build junk, keep only source + docs
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*~
+.output/
+output/
+node_modules/
+.npm/
+coverage/
+.pytest_cache/
+.mypy_cache/
